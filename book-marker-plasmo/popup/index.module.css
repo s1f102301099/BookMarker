@@ -1,13 +1,7 @@
 .container {
     width: 400px;
 }
-
-.textInput {
-    margin: 10px;
-    padding: 10px;
-    border: solid 2px#666666;
-    width: 80%;
-}
-h1{
-    text-align: center;
+.input{
+    width: fit-content;
+    margin: auto;
 }
